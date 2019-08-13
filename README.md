@@ -1,7 +1,7 @@
 # Logo
 
-[![](https://tilecloud.github.io/logo/tilecloud-256x256.png)](https://tilecloud.github.io/logo/tilecloud-256x256.png)
+[![](https://geolonia.github.io/logo/geolonia-logo_a1.png)](https://geolonia.github.io/logo/geolonia-logo_a1.png)
 
-[![](https://tilecloud.github.io/logo/tilecloud-256x60.png)](https://tilecloud.github.io/logo/tilecloud-256x60.png)
+[![](https://geolonia.github.io/logo/geolonia-logo_b2.jpg)](https://geolonia.github.io/logo/geolonia-logo_b2.jpg)
 
-[![](https://tilecloud.github.io/logo/tilecloud-512x120.png)](https://tilecloud.github.io/logo/tilecloud-512x120.png)
+[![](https://geolonia.github.io/logo/geolonia-symbol_1.png)](https://geolonia.github.io/logo/geolonia-symbol_1.png)
